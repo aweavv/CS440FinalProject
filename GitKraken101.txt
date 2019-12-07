@@ -1,0 +1,18 @@
+GitKraken 101:
+
+When starting a new change:
+	Create a new branch (this is only on your local machine at first)
+		- name it the change you are going to be working on.
+	
+	Do your work (edit/create/delete files)
+
+	At the end of every work session stage then commit all changes to branch.
+	Then push to online repo so it is backed up!!
+
+	Once done with that given task, stage, commit then push to online branch.
+	Then create a merge request to merge your branch with the master branch.
+		- Only do this if you know that your branch  won't break the master!
+
+	once branch is merged, start on next task by creating a new branch.
+
+	Repeat till project is done!
