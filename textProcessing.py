@@ -117,7 +117,8 @@ def split_to_list_of_paragraphs(text):
 
 def trim_text(row, min_len = 500):
     '''
-    This function will look to get rid of introductory paragraphs and paragraphs at the end of the text file.
+    This function will look to get rid of introductory paragraphs and 
+    paragraphs at the end of the text file.
     After running this function, there will only be the actual text of the book.
     
     This function also joins small paragraphs together so that there is more to analyze
